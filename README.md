@@ -1,16 +1,20 @@
-## Hi there 👋
+👩‍💻 About Me
+🎓 I am pursuing Electronics and Communication Engineering (ECE) at St. Joseph's College of Engineering.
+💻 I am learning programming with C and Python.
+🔌 I am interested in electronics, embedded systems, and practical hardware-software projects.
+🌱 I am continuously improving my programming, problem-solving, and technical skills.
+🎯 My goal is to build useful projects and grow as an electronics and technology professional.
+Career Roadmap
 
-<!--
-**Rakshana759/Rakshana759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning: C programming and Python fundamentals.
 
-Here are some ideas to get you started:
+Next goal: Strengthen problem-solving and learn digital electronics concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Future goal: Explore embedded systems, microcontrollers, and VLSI design.
+
+Long-term goal: Build real-world projects that combine electronics and programming.
+
+📫 Connect With Me
+Email: rakshanas759@gmail.com
+LinkedIn: Add your LinkedIn profile link here.
+GitHub:https://github.com/Rakshana759/Rakshana759/edit/main/README.md
