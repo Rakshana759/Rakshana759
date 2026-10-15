@@ -1,4 +1,5 @@
 👩‍💻 About Me
+
 🎓 I am pursuing Electronics and Communication Engineering (ECE) at St. Joseph's College of Engineering.
 💻 I am learning programming with C and Python.
 🔌 I am interested in electronics, embedded systems, and practical hardware-software projects.
