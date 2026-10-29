@@ -17,5 +17,5 @@ Long-term goal: Build real-world projects that combine electronics and programmi
 
 📫 Connect With Me
 Email: rakshanas759@gmail.com
-LinkedIn: Add your LinkedIn profile link here.
+LinkedIn:https://www.linkedin.com/in/rakshana-s-259a59443?utm_source=share_via&utm_content=profile&utm_medium=member_android
 GitHub:https://github.com/Rakshana759/Rakshana759/edit/main/README.md
